@@ -28,4 +28,5 @@ def printer(name_array)
     puts badge
     puts roomAssignments[room]
     room = room + 1
+  end
 end
