@@ -21,5 +21,5 @@ def assign_rooms(name_array)
 end
 
 def printer(name_array)
-  badge_maker(name_array)
+  puts badge_maker(name_array)
 end
